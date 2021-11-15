@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Task TCP Avidi\Server.csproj", "{5CC61607-3B2B-482B-8313-10B90FEAB7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{C02E389C-F032-4988-8467-AAEF3812E37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC61607-3B2B-482B-8313-10B90FEAB7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC61607-3B2B-482B-8313-10B90FEAB7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC61607-3B2B-482B-8313-10B90FEAB7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC61607-3B2B-482B-8313-10B90FEAB7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02E389C-F032-4988-8467-AAEF3812E37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02E389C-F032-4988-8467-AAEF3812E37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02E389C-F032-4988-8467-AAEF3812E37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02E389C-F032-4988-8467-AAEF3812E37F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF3A5FC-35EA-42DE-AA6D-B1D2B86BC553}
+	EndGlobalSection
+EndGlobal
