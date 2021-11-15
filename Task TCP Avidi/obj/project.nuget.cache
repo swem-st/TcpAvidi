@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cZTFgR32TPlmIn592L8Ujbyb2/p6X7KWpKjbGpoMuIgt5ymEo6zFWYY4VMPjIGB2bNB08OO8bQ87Ue47ye+7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Вавушко\\Documents\\programing\\Test Task Avidi\\Task TCP Avidi\\Task TCP Avidi\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вавушко\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
