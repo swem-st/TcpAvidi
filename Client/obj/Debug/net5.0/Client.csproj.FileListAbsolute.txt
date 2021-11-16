@@ -1,0 +1,16 @@
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\bin\Debug\net5.0\Client.exe
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\bin\Debug\net5.0\Client.deps.json
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\bin\Debug\net5.0\Client.dll
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\bin\Debug\net5.0\ref\Client.dll
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\bin\Debug\net5.0\Client.pdb
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\Client.dll
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\ref\Client.dll
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\Client.pdb
+C:\Users\Вавушко\Documents\programing\Test Task Avidi\Task TCP Avidi\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
